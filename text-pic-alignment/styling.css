@@ -1,0 +1,27 @@
+body{}
+p{
+padding-left: 20px;
+border-style:inset;
+}
+h2{
+text-align:center;
+
+}
+h3{
+text-align:center;
+
+}
+h5{
+text-align:center;
+border-style:inset;
+
+}
+img{
+border-radius:300px;
+width:20%;
+height:20%;
+margin-left:40%;
+border-style: inset ;
+
+
+}
